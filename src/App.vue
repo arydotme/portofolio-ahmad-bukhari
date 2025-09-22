@@ -8,12 +8,21 @@ import SubFooter from "./components/SubFooter.vue";
 </script>
 
 <template>
-    <Navbar />
+  <Navbar />
+  <div id="home">
     <Home />
+  </div>
+  <div id="profile">
     <Profile />
+  </div>
+  <div id="portfolio">
     <Portfolio />
+  </div>
+  <div id="contact">
     <Footer />
-    <SubFooter />
+  </div>
+
+  <SubFooter />
 </template>
 
 <style scoped></style>

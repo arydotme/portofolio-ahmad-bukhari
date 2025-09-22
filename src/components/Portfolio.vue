@@ -1,12 +1,12 @@
 <script setup></script>
 
 <template>
-  <main class="bg-white dark:bg-dark-purple transition-colors duration-300 h-full py-10">
+  <main class="bg-white dark:bg-dark-purple transition-colors duration-300 h-full py-22">
     <div class="mx-5 2xl:mx-100">
     <header class="pb-10 items-center flex justify-center">
       <h1 class="font-extrabold text-4xl text-claret">My Portfolio</h1>
     </header>
-    <div class="grid grid-cols-1 md:grid-cols-2 gap-8 font-lato dark:text-white">
+    <div class="grid grid-cols-1 md:grid-cols-2 2xl:grid-cols-3 gap-8 font-lato dark:text-white">
       <!-- Start Knee OA -->
       <div class="rounded-[24px] h-95 flex flex-col justify-between shadow-2xl border-2 border-claret dark:border-smoke">
         <div class="flow-root p-4">

@@ -1,7 +1,7 @@
 <script></script>
 
 <template>
-  <main class="bg-white dark:bg-dark-purple transition-colors duration-300 h-full py-10">
+  <main class="bg-white dark:bg-dark-purple transition-colors duration-300 h-full py-22">
     <div class="mx-5 grid md:grid-flow-col md:grid-rows-2 gap-2 2xl:mx-100 grid-white">
       <!-- Start About -->
       <div class="mx-2 border-2 border-solid rounded-lg border-claret dark:border-smoke p-4 md:row-span-2">

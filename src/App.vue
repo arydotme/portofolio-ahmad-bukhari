@@ -21,7 +21,6 @@ import SubFooter from "./components/SubFooter.vue";
   <div id="contact">
     <Footer />
   </div>
-
   <SubFooter />
 </template>
 

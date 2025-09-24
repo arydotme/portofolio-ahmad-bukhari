@@ -40,7 +40,8 @@ function scrollToSection(sectionId) {
   <main class="bg-smoke dark:bg-rich-black transition-colors duration-300 fixed w-full">
     <nav class="md:flex justify-between items-center 2xl:mx-100 md:my-2 mx-5 my-4">
       <div class="flex justify-between items-center md:my-0">
-        <h1 class="text-2xl dark:text-white">Ahmad Bukhari</h1>
+        <h1 class="text-base font-lato font-extrabold text-rich-black dark:text-white hidden md:block">Ahmad Bukhari</h1>
+        <h1 class="text-base font-lato font-extrabold text-rich-black dark:text-white md:hidden">Ary</h1>
         <Icon :icon="menuIcon" width="30" class="md:hidden text-rich-black dark:text-smoke" @click="toggleMenu"></Icon>
       </div>
       <div class="mx-5 md:flex md:items-center md:gap-x-10 md:opacity-100 opcacity-0">

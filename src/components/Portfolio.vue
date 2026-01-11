@@ -22,9 +22,6 @@
         </div>
         <div class="flex flex-wrap pl-4">
           <span class="bg-dark-purple-2 hover:bg-claret font-lato px-3 py-1 mr-3 mb-2 rounded-full text-[10px] text-smoke tracking-widest">Personal Project</span>
-          <span class="bg-dark-purple-2 hover:bg-claret font-lato px-3 py-1 mr-3 mb-2 rounded-full text-[10px] text-smoke tracking-widest">Python</span>
-          <span class="bg-dark-purple-2 hover:bg-claret font-lato px-3 py-1 mr-3 mb-2 rounded-full text-[10px] text-smoke tracking-widest">CNN</span>
-          <span class="bg-dark-purple-2 hover:bg-claret font-lato px-3 py-1 mr-3 mb-2 rounded-full text-[10px] text-smoke tracking-widest">VGG16</span>
           <span class="bg-dark-purple-2 hover:bg-claret font-lato px-3 py-1 mr-3 mb-2 rounded-full text-[10px] text-smoke tracking-widest">Flask</span>
         </div>
       </div>
@@ -44,10 +41,7 @@
         </div>
         <div class="flex flex-wrap pl-4">
           <span class="bg-dark-purple-2 hover:bg-claret font-lato px-3 py-1 mr-3 mb-2 rounded-full text-[10px] text-smoke tracking-widest">CAPSTONE EXPO</span>
-          <span class="bg-dark-purple-2 hover:bg-claret font-lato px-3 py-1 mr-3 mb-2 rounded-full text-[10px] text-smoke tracking-widest">Website</span>
           <span class="bg-dark-purple-2 hover:bg-claret font-lato px-3 py-1 mr-3 mb-2 rounded-full text-[10px] text-smoke tracking-widest">Laravel</span>
-          <span class="bg-dark-purple-2 hover:bg-claret font-lato px-3 py-1 mr-3 mb-2 rounded-full text-[10px] text-smoke tracking-widest">Boostrap</span>
-          <span class="bg-dark-purple-2 hover:bg-claret font-lato px-3 py-1 mr-3 mb-2 rounded-full text-[10px] text-smoke tracking-widest">MySQL</span>
         </div>
       </div>                                  
       <!-- End NirwanaWood -->
@@ -67,9 +61,6 @@
         <div class="flex flex-wrap pl-4">
           <span class="bg-dark-purple-2 hover:bg-claret font-lato px-3 py-1 mr-3 mb-2 rounded-full text-[10px] text-smoke tracking-widest">Personal Project</span>
           <span class="bg-dark-purple-2 hover:bg-claret font-lato px-3 py-1 mr-3 mb-2 rounded-full text-[10px] text-smoke tracking-widest">Python</span>
-          <span class="bg-dark-purple-2 hover:bg-claret font-lato px-3 py-1 mr-3 mb-2 rounded-full text-[10px] text-smoke tracking-widest">ChatBot</span>
-          <span class="bg-dark-purple-2 hover:bg-claret font-lato px-3 py-1 mr-3 mb-2 rounded-full text-[10px] text-smoke tracking-widest">BERT</span>
-          <span class="bg-dark-purple-2 hover:bg-claret font-lato px-3 py-1 mr-3 mb-2 rounded-full text-[10px] text-smoke tracking-widest">Flask</span>
         </div>
       </div>
       <!-- End FAQ Campus -->

@@ -58,7 +58,7 @@
         </a>
       </div>
       <div class="font-lato text-rich-black dark:text-light">
-        <p>&copy; 2025 Ahmad Bukhari</p>
+        <p>&copy; 2026 Ahmad Bukhari</p>
         <p>All Rights Reserved</p>
       </div>
     </div>

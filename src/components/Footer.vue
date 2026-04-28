@@ -22,7 +22,7 @@
         </a>
         <a
           class="group flex h-min items-center disabled:opacity-50 disabled:hover:opacity-50 hover:opacity-95 justify-center ring-none rounded-full shadow-lg font-semibold py-2 px-4 font-dm focus:outline-none focus-visible:outline-2 focus-visible:outline-offset-2 bg-light border-b-gray-400 disabled:border-0 disabled:text-white ring-white text-dark-purple-2 border-b-4 hover:border-0 active:border-0 hover:text-dark-purple active:bg-claret active:text-smoke text-sm sm:text-base font-lato"
-          href="/src/assets/resume-ahmad-bukhari.pdf"
+          href="/src/assets/cv-ahmad-bukhari.pdf"
         >
           <span class="">Download CV</span>
         </a>

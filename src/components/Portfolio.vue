@@ -5,28 +5,28 @@ const projects = [
   {
     title: "Knee Osteoarthritis",
     description: "Knee OA classification based on Kallgren & Laurance method",
-    image: "/src/assets/KneeOA.png",
+    image: new URL("../assets/KneeOA.png", import.meta.url).href,
     tags: ["Personal Project", "Flask"],
     link: "#"
   },
   {
     title: "Nirwana Wood",
     description: "E-Commerce for UMKM raw wood in Blitar, East Java, Indonesia",
-    image: "/src/assets/NirwanaWood.png",
+    image: new URL("../assets/NirwanaWood.png", import.meta.url).href,
     tags: ["CAPSTONE EXPO", "Laravel"],
     link: "#"
   },
   {
     title: "FAQ Campus",
     description: "Questions and Answers about academic activities at the university",
-    image: "/src/assets/ChatBot.png",
+    image: new URL("../assets/ChatBot.png", import.meta.url).href,
     tags: ["Personal Project", "Python"],
     link: "#"
   },
   {
     title: "Kalla Toyota Talent Management",
     description: "Talent management system for Kalla Toyota",
-    image: "/src/assets/kttm.png",
+    image: new URL("../assets/kttm.png", import.meta.url).href,
     tags: ["Javascript", "MySQL", "Node JS", "Tailwind CSS", "Next JS"],
     link: "https://kttm.kallatoyotapeople.com/"
   }
@@ -37,7 +37,7 @@ const projects = [
   <main class="bg-white dark:bg-dark-purple transition-colors duration-500 py-24 sm:py-32">
     <div class="mx-auto max-w-7xl px-6 lg:px-8">
       <header class="mb-16 text-center">
-        <h1 class="mt-2 text-4xl font-extrabold tracking-tight text-rich-black dark:text-white sm:text-5xl">My Portfolio</h1>
+        <h2 class="mt-2 text-4xl font-extrabold tracking-tight text-rich-black dark:text-white sm:text-5xl">My Portfolio</h2>
       </header>
 
       <div class="grid grid-cols-1 gap-x-8 gap-y-12 sm:grid-cols-2 lg:grid-cols-3">
@@ -92,6 +92,7 @@ const projects = [
 .line-clamp-3 {
   display: -webkit-box;
   -webkit-line-clamp: 3;
+  line-clamp: 3;
   -webkit-box-orient: vertical;
   overflow: hidden;
 }
